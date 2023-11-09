@@ -11,28 +11,28 @@ I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](
  ## 🎯 My Dev Skills 
 
 
- ####  <img alt="C" width="20px" src="./Assets/html.png" style="margin-bottom: -5px;margin-left:4px" /> HTML 
+ ####  <img alt="C" width="20px" src="./Assets/html.png" style="margin-left:4px" /> HTML 
  
- #### <img alt="C" width="20px" src="./Assets/css-3.png" style="margin-bottom: -5px;margin-left:4px"/> CSS 
+ #### <img alt="C" width="20px" src="./Assets/css-3.png" style="margin-left:4px"/> CSS 
 
  | Know/Using   | Learning Path      |
  |------------- | -------------  |
  | - Bootstrap   | - Material Ui  |
  | - Tailwind  | - Chakra Ui  |
  | - Material-tailwind  |    |
- |   |    |
 
-####  <img alt="C" width="20px" src="./Assets/js.png" style="margin-bottom: -5px;margin-left:4px" /> JAVASCRIPT
+
+####  <img alt="C" width="20px" src="./Assets/js.png" style="margin-left:4px" /> JAVASCRIPT
 
 | Know/Using   | Learning Path   |
  |------------- | -------------  |
  | - React   | - TypeScript  |
  |           | - NextJs |
- |   |    |
 
 
 
-####  <img alt="C" width="20px" src="./Assets/nodejs.png" style="margin-bottom: -5px;margin-left:4px" /> NODE Js
+
+####  <img alt="C" width="20px" src="./Assets/nodejs.png" style="margin-left:4px" /> NODE Js
  | Know/Using   
  |-------------
  | -Express Js
