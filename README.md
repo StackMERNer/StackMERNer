@@ -44,6 +44,6 @@ I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](
  **Social Links**
 ---
 
-[<img align="left" alt="Rohan Das" width="30px" style="" src="./Assets/fb.jpeg"  />](https://www.facebook.com/profile.php?id=100090961256229) 
+
 
 
