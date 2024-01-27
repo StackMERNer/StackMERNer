@@ -1,7 +1,7 @@
 
 # Passionate About the Art of Programming 🚀
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](# "MongoDB, Express, React, Node.js") stack . With an ever-curious mind, I'm always exploring new technologies to enhance my programming skills and build exciting applications.
