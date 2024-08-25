@@ -26,8 +26,8 @@ I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](
 
 | Know/Using   | Learning Path   |
  |------------- | -------------  |
- | - React   | - TypeScript  |
- |           | - NextJs |
+ | - React   |  | - NextJs       |
+ | - TypeScript | - Testing      |
 
 
 
@@ -38,7 +38,7 @@ I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](
  | -Express Js
  
 
-####  <img alt="C" width="20px" src="./Assets/mongodb.png" style="margin-bottom: -5px;margin-left:4px" /> MongoDb
+####  <img alt="C" width="20px" src="./Assets/mongodb.png" style="margin-bottom: -5px;margin-left:4px" /> MongoDb, Mongoose
  
  
  **Social Links**
