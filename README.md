@@ -26,7 +26,7 @@ I'm Ashraf, a self-motivated web developer with a strong passion for the [MERN](
 
 | Know/Using   | Learning Path   |
  |------------- | -------------  |
- | - React   |  | - NextJs       |
+ | - React     | - NextJs       |
  | - TypeScript | - Testing      |
 
 
